@@ -17,7 +17,7 @@ html {
 }
 
 body {
-  background: #101214;
+  background: #000000;
   font-size: 18px;
   -webkit-text-size-adjust: 100%;
   color: #7A7C80;
@@ -162,7 +162,7 @@ a.more:hover .arrow {
 }
 
 #intro {
-  background: #101214;
+  background: #000000;
   pointer-events: none;
 }
 

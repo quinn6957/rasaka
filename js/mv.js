@@ -103,7 +103,7 @@ function _animateStripes(container, options = {}) {
 }
 function animateBlackStripes(container, options = {}) {
   options.sizeRatio = 3;
-  options.color = "#101214";
+  options.color = "#e60000";
   options.delay = function (type, i) {
     if (type === "show") {
       if (options.delayShow) {
@@ -214,7 +214,7 @@ function cloneAndStripeElement(element, clipPathName, parent) {
     height: Math.ceil(box.height),
     display: "none",
     pointerEvents: "none",
-    background: "#101214",
+    background: "#000000",
     fontSize: style.fontSize,
     fontFamily: style.fontFamily,
     color: style.color,
