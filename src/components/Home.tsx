@@ -1,6 +1,4 @@
-import { Button } from './ui/button';
 import { VaiiyaLogo, VaiiyaLogoSmall } from './VaiiyaLogo';
-import { Mail } from 'lucide-react';
 
 
 export function Home() {

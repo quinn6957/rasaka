@@ -4,7 +4,7 @@ interface VaiiyaLogoProps {
   height?: number;
 }
 
-export function VaiiyaLogo({ className, width = 700, height = 184.8 }: VaiiyaLogoProps) {
+export function VaiiyaLogo({  }: VaiiyaLogoProps) {
   return (
     <svg width="700" height="185" viewBox="0 0 700 185" fill="none" xmlns="http://www.w3.org/2000/svg">
       <g clip-path="url(#clip0_1_13)">
@@ -27,7 +27,7 @@ export function VaiiyaLogo({ className, width = 700, height = 184.8 }: VaiiyaLog
   );
 }
 
-export function VaiiyaLogoSmall({ className, width = 120, height = 32 }: VaiiyaLogoProps) {
+export function VaiiyaLogoSmall({  }: VaiiyaLogoProps) {
   return (
 
     <svg width="121" height="32" viewBox="0 0 121 32" fill="none" xmlns="http://www.w3.org/2000/svg">

@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Disallow sensitive areas (adjust as needed)
+Disallow: /admin/
+Disallow: /api/
+Disallow: /.well-known/
+
+# Allow public assets
+Allow: /assets/
