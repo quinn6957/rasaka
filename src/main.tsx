@@ -1,6 +1,9 @@
 
 import { createRoot } from "react-dom/client";
-import App from "./App.tsx";
 import "./index.css";
 
-createRoot(document.getElementById("root")!).render(<App />);
+//createRoot(document.getElementById("root")!).render(<App />);
+// make routes to PrivacyPolicy and TermsOfUse work
+// e.g. /privacy and /terms
+import AppRouter from "./AppRouter.tsx";
+createRoot(document.getElementById("root")!).render(<AppRouter />);
