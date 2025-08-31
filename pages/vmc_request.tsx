@@ -2,7 +2,7 @@ export default function VMCRequest() {
   
     // redirect to the VMC request page
     if (typeof window !== 'undefined') {
-      window.location.href = 'https://vmc.vaiiya.com/request';
+      window.location.href = 'https://vmc.vaiiya.com/request.html';
     }
   
     return (
