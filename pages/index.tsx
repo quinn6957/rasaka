@@ -14,7 +14,12 @@ export default function Home() {
   
 
   return (
-      <><div className="min-h-screen text-black relative overflow-hidden" style={{ backgroundColor: '#0b090b' }}>
+    <><div className="min-h-screen text-black relative overflow-hidden" style={{ backgroundColor: '#0b090b' }}>
+      <Head>
+        <title>DISSUN</title>
+        <meta name="description" content="DISSUN - Energy for your reality." />
+        <link rel="icon" href="/DISSUN.png" type="image/png" />
+      </Head>
         {/* Hero Section */}
         <div className="flex flex-col items-center justify-center min-h-screen px-8">
           {/* Main Logo */}

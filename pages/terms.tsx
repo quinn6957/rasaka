@@ -16,7 +16,7 @@ export default function TermsOfUse() {
           <Button
             variant="ghost"
             onClick={handleBackClick}
-            className="text-black hover:bg-gray-100"
+            className="text-white hover:bg-gray-100"
           >
             ← Back
           </Button>
