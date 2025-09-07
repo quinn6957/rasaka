@@ -8,10 +8,10 @@ export default function PrivacyPolicy() {
   };
 
   return (
-    <div className="min-h-screen p-8" style={{ backgroundColor: '#edf1fc' }}>
+    <div className="min-h-screen p-8" style={{ backgroundColor: '#0b090b' }}>
       <div className="max-w-4xl mx-auto">
         <div className="flex justify-between items-center mb-8">
-          <h1 className="text-2xl text-black" style={{ color: '#ED0F35' }}>Privacy Policy</h1>
+          <h1 className="text-2xl text-black" style={{ color: '#D21F3C' }}>Privacy Policy</h1>
           
           <Button
             variant="ghost"
@@ -25,7 +25,7 @@ export default function PrivacyPolicy() {
 
         <div className="space-y-6">
           <section>
-            <h2 className="text-xl mb-4" style={{ color: '#ED0F35' }}>Information We Collect</h2>
+            <h2 className="text-xl mb-4" style={{ color: '#D21F3C' }}>Information We Collect</h2>
             <p className="text-gray-700">
               We collect information you provide directly to us, such as when you create an account,
               subscribe to our newsletter, or contact us for support. This may include your name,
@@ -34,7 +34,7 @@ export default function PrivacyPolicy() {
           </section>
 
           <section>
-            <h2 className="text-xl mb-4" style={{ color: '#ED0F35' }}>How We Use Your Information</h2>
+            <h2 className="text-xl mb-4" style={{ color: '#D21F3C' }}>How We Use Your Information</h2>
             <p className="text-gray-700">
               We use the information we collect to provide, maintain, and improve our services,
               communicate with you, and comply with legal obligations. We may also use your
@@ -43,7 +43,7 @@ export default function PrivacyPolicy() {
           </section>
 
           <section>
-            <h2 className="text-xl mb-4" style={{ color: '#ED0F35' }}>Information Sharing</h2>
+            <h2 className="text-xl mb-4" style={{ color: '#D21F3C' }}>Information Sharing</h2>
             <p className="text-gray-700">
               We do not sell, trade, or otherwise transfer your personal information to third parties
               without your consent, except as described in this privacy policy or as required by law.
@@ -51,7 +51,7 @@ export default function PrivacyPolicy() {
           </section>
 
           <section>
-            <h2 className="text-xl mb-4" style={{ color: '#ED0F35' }}>Data Security</h2>
+            <h2 className="text-xl mb-4" style={{ color: '#D21F3C' }}>Data Security</h2>
             <p className="text-gray-700">
               We implement appropriate security measures to protect your personal information against
               unauthorized access, alteration, disclosure, or destruction. However, no method of
@@ -60,7 +60,7 @@ export default function PrivacyPolicy() {
           </section>
 
           <section>
-            <h2 className="text-xl mb-4" style={{ color: '#ED0F35' }}>Contact Us</h2>
+            <h2 className="text-xl mb-4" style={{ color: '#D21F3C' }}>Contact Us</h2>
             <p className="text-gray-700">
               If you have any questions about this Privacy Policy, please contact us at our
               official email address.
