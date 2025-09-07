@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: /sitemap.xml
 
 # Disallow sensitive areas (adjust as needed)
 Disallow: /admin/

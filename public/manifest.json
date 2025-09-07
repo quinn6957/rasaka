@@ -1,14 +1,14 @@
 {
-  "name": "VAIIYA",
-  "short_name": "VAIIYA",
-  "description": "VAIIYA",
+  "name": "DISSUN",
+  "short_name": "DISSUN",
+  "description": "DISSUN",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#edf1fc",
-  "theme_color": "#ED0F35",
+  "background_color": "#0b090b",
+  "theme_color": "#D21F3C",
   "icons": [
     {
-      "src": "/assets/logos/Logonography_LightMode.svg",
+      "src": "/DISSUN_Icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
